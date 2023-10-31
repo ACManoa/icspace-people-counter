@@ -1,55 +1,48 @@
-####################################################
-# WEEKLY STAND-UP MEETING DOCUMENT
-# Project: ICSpace People Counter
-# Description: This project aims to utilize MobileNetV2 TensorFlow Object Tracking AI to
-# maintain a tally of the number of people present in ICSpace, our student area. The
-# data gathered will be instrumental for event attendance tracking and monitoring general
-# room occupancy.
-####################################################
+# Weekly Stand-Up Meeting Document
+**Project:** ICSpace People Counter  
+**Description:** Utilize MobileNetV2 TensorFlow Object Tracking AI to tally the number of people in ICSpace, our student area. Useful for event attendance and general room occupancy statistics.
 
-## RUNNING AGENDA
+## Running Agenda
 1. Review of actions from the last meeting
 2. Progress updates
 3. Blockers and challenges
 4. Discussion items
 5. Actions for next week
 
------------------------ [Date of Meeting] -----------------------
-## MEETING DATE: [Date]
+---
 
-## ATTENDEES:
-[Name 1], [Name 2], [Name 3], [Name 4], ...
+### Meeting Date: [Date]
 
-## LAST MEETING ACTIONS REVIEW
-- [Action Item]
-  - Assigned To: [Name]
-  - Status: [Completed/In Progress/Pending]
+#### Attendees
+`[Name 1], [Name 2], [Name 3], [Name 4], ...`
 
-## PROGRESS UPDATES
-[Short bullet points from each team member]
+#### Last Meeting Actions Review
+- **[Action Item]**  
+  - **Assigned To:** [Name]  
+  - **Status:** [Completed/In Progress/Pending]
 
-## BLOCKERS AND CHALLENGES
-[Short bullet points on current challenges]
+#### Progress Updates
+- [Team member updates in short bullet points]
 
-## DISCUSSION ITEMS
-[Key points for discussion]
+#### Blockers and Challenges
+- [List current challenges and blockers in bullet points]
 
-## ACTIONS FOR NEXT WEEK
-[What’s to be done, who’s responsible, any deadlines]
+#### Discussion Items
+- [Key points for discussion in bullet points]
 
-## ANY OTHER BUSINESS
-[Additional notes]
+#### Actions for Next Week
+- [What’s to be done, who’s responsible, any deadlines]
 
-## NEXT MEETING
-- Date: [Next Meeting Date]
+#### Any Other Business
+- [Additional notes]
 
------------------------ [Previous Date of Meeting] -----------------------
-## MEETING DATE: [Date]
+#### Next Meeting
+- **Date:** [Next Meeting Date]
 
-## ATTENDEES:
-[Previous Attendees]
+---
 
-[... Repeat sections for Last Meeting Review, Progress Updates, Blockers and Challenges, Discussion Items, Actions for Next Week, Any Other Business, and Next Meeting ...]
+## [Previous Date of Meeting]
+*Repeat the sections as above for each previous meeting, in descending order.*
 
-####################################################
-[Continue with previous meetings in descending order]
+---
+
